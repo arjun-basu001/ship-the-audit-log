@@ -1,0 +1,3 @@
+# Intentionally dependency-free — stdlib only.
+# Swap in your real model SDK (openai, anthropic, etc.) where the code
+# says `# swap for a real model call`, and add it here.
